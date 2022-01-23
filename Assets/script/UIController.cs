@@ -9,7 +9,7 @@ public class UIController : MonoBehaviour {
     public Button startButton;
     public Button messageButton;
     public Label messageText;
-    public Button testButton;
+ 
 
     private void Start () {
 
